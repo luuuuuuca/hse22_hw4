@@ -3,7 +3,13 @@
 [Ссылка на Colab](https://colab.research.google.com/drive/1HW1J5uiKMBiLwVRoP0bNwPuVpuN45MI3?usp=sharing)
 
 ______
+## FastQC
 ## ALL.counts содержит в себе все чтения
 ![](https://github.com/luuuuuuca/hse22_hw4/blob/main/All.counts.png)
 ## Бонус
 [Ссылка на Colab](https://colab.research.google.com/drive/1wi4PC_Jka6HIpYUZMQLjGoiaRf23VfDk?usp=sharing)
+## MA-plot
+![](https://github.com/luuuuuuca/hse22_hw4/blob/main/All.counts.png)
+##Heatmap
+![](https://github.com/luuuuuuca/hse22_hw4/blob/main/All.counts.png)
+##Графики
