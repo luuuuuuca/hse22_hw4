@@ -4,4 +4,4 @@
 
 ______
 ## ALL.counts содержит в себе все чтения
-[]()
+[](https://github.com/luuuuuuca/hse22_hw4/blob/main/All.counts.png)
